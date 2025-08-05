@@ -2,7 +2,7 @@ body {
   color: white;
   margin: 0;
   padding: 0%;
-  background: url("/boxer.jpg");
+  background: url('boxer.jpg');
   background-size: cover;
   background-repeat: no-repeat;
 
@@ -113,3 +113,4 @@ main #contact2 {
   padding: 10px 20px;
   margin: 10px 20px;
 }
+
